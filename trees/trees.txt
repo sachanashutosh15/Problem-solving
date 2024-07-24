@@ -1,0 +1,8 @@
+1. Sum of all the elements of the tree.
+2. Height of a tree.
+3. Is the tree skewed?
+4. Search for a key.
+5. Max element of tree.
+6. Is the tree full?
+7. Is the tree perfect?
+8. Is the tree complete?
